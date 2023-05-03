@@ -9,6 +9,8 @@
 
 ### Similarity
 
+### Features
+
 #### Notes
 
 Readme content can be changed by visiting the Web App at .....
