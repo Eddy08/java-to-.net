@@ -26,3 +26,7 @@ Also creation of user must be verified by email or mobile.
 Ability to mark a user spam or bot.(Send him mannual questions for interoggation )
 
 Also rate limit the creation of a user.
+
+Also every content is encrypted and content limit is specifed.
+
+Plaigrism checks with openai.
