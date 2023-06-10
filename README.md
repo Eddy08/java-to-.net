@@ -35,3 +35,5 @@ Also every content is encrypted and content limit is specifed.
 Plaigrism checks with openai.
 
 Step by step journey and wildly roaming feature for searching the differences and similarities
+
+## Redirect to notes-solution where each user submission is being tested by multiple ai models ( Paid and Open source one)
